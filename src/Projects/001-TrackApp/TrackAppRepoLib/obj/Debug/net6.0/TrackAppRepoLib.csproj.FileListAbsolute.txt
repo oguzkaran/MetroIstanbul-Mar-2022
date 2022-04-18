@@ -1,0 +1,14 @@
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\bin\Debug\net6.0\TrackAppRepoLib.deps.json
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\bin\Debug\net6.0\TrackAppRepoLib.runtimeconfig.json
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\bin\Debug\net6.0\TrackAppRepoLib.dll
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\bin\Debug\net6.0\TrackAppRepoLib.pdb
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.csproj.AssemblyReference.cache
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.AssemblyInfoInputs.cache
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.AssemblyInfo.cs
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.csproj.CoreCompileInputs.cache
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.dll
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\refint\TrackAppRepoLib.dll
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.pdb
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\TrackAppRepoLib.genruntimeconfig.cache
+C:\Users\oguzkaran\Desktop\MetroIstanbul\TrackApp\TrackAppRepoLib\obj\Debug\net6.0\ref\TrackAppRepoLib.dll
