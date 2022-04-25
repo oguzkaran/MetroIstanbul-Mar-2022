@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oguzkaran\\Desktop\\MetroIstanbul\\Libraries\\DataUtilLib\\DataUtilLib.csproj": {}
+    "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\DataUtilLib\\DataUtilLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oguzkaran\\Desktop\\MetroIstanbul\\Libraries\\DataUtilLib\\DataUtilLib.csproj": {
+    "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\DataUtilLib\\DataUtilLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oguzkaran\\Desktop\\MetroIstanbul\\Libraries\\DataUtilLib\\DataUtilLib.csproj",
+        "projectUniqueName": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\DataUtilLib\\DataUtilLib.csproj",
         "projectName": "CSD.Data",
-        "projectPath": "C:\\Users\\oguzkaran\\Desktop\\MetroIstanbul\\Libraries\\DataUtilLib\\DataUtilLib.csproj",
+        "projectPath": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\DataUtilLib\\DataUtilLib.csproj",
         "packagesPath": "C:\\Users\\oguzkaran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oguzkaran\\Desktop\\MetroIstanbul\\Libraries\\DataUtilLib\\obj\\",
+        "outputPath": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\DataUtilLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oguzkaran\\AppData\\Roaming\\NuGet\\NuGet.Config",

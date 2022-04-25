@@ -4,9 +4,10 @@
     {
         public static void Main()
         {
-            Foo();
-            Console.WriteLine("Ahmet Taçgın");
-            Console.ReadKey(false);
+            using var fs = new FileStream("tes.dat", FileMode.CreateNew, FileAccess.Read);
+            using var ms = new MemoryStream();
+            
+            //...
         }
 
         public static async void Foo()
@@ -26,6 +27,25 @@
             t.Start();
 
             return t;
+        }
+    }
+
+    class Mample
+    {
+        public void Foo()
+        {
+            //...
+        }
+
+    }
+    class Sample
+    {
+        private Mample m_mample;
+
+        //...
+        ~Sample()
+        { 
+            m_mample.Foo();
         }
     }
 }

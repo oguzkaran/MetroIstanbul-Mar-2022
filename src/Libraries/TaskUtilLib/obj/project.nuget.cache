@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v+tLAytnSma3yfwvP426S6Uu4Kti+ct49QixYIAKG+RciXJmI64maBEyvfhCeMg0WZaXbjWwCL7bPn+KJfm3DQ==",
+  "dgSpecHash": "5zVzUB2VvLEITSvmrNZKY7Xm1MevEqUrDy0NkJwvVdsyJI3tjnjb1ayvoriyM1msqKKdrpogPx0G69MQ3g1ufA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karans\\Dropbox\\CSD\\Kurslar\\Alga-WPF-Jan-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzkaran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\oguzkaran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\oguzkaran\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
