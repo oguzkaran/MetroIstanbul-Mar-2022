@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrackAppRepoLib.Data.Entities;
 using TrackAppRepoLib.Data.Repositories;
 
 namespace TrackAppRepoLib.DAL
@@ -16,9 +17,17 @@ namespace TrackAppRepoLib.DAL
             m_switchDatabaseRepo = switchDatabaseRepo;
         }
 
-        public Task<IEnumerable<SwitchDatabase>> FindSwitchDatabasesByStationName(string name)
+        public async Task<IEnumerable<SwitchDatabase>> FindSwitchDatabasesByStationNameAsync(int name)
         {
-            return m_switchDatabaseRepo.FindByStationNameAsync(name);
+            try
+            {
+                return await m_switchDatabaseRepo.FindByStationNameAsync(name);
+            }
+            catch (Exception)
+            {
+                //...
+                throw;
+            }                   
         }
 
 

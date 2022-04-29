@@ -5,23 +5,28 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using TrackAppRepoLib.Data.Contexts;
+using TrackAppRepoLib.Data.Entities;
 
 namespace TrackAppRepoLib.Data.Repositories
 {
-    public class SwitchDatabase : ISwitchDatabaseRepo 
+    public class SwitchDatabaseRepo : ISwitchDatabaseRepo 
     {
         private readonly AtsServerDbContext m_atsServerDbContext;
 
-        public SwitchDatabase(AtsServerDbContext atsServerDbContext)
+        public SwitchDatabaseRepo(AtsServerDbContext atsServerDbContext)
         {
             m_atsServerDbContext = atsServerDbContext;
         }
 
-        public Task<IEnumerable<SwitchDatabase>> FindByStationNameAsync(string name)
+        public Task<IEnumerable<SwitchDatabase>> FindByStationNameAsync(int name)
         {
-            
-        }
+            var task = new Task<IEnumerable<SwitchDatabase>>(() => m_atsServerDbContext.SwitchDatabases.Where(sd => sd.StationName == name).ToList());
 
+            task.Start();
+
+            return task;
+        }
+        
         ////////////////////////////////////
 
         public IEnumerable<SwitchDatabase> All => throw new NotImplementedException();

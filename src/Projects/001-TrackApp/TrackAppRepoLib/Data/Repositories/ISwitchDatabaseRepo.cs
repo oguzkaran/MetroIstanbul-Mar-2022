@@ -10,7 +10,7 @@ namespace TrackAppRepoLib.Data.Repositories
 {
     public interface ISwitchDatabaseRepo : ICrudRepository<SwitchDatabase, int>
     {
-        Task<IEnumerable<SwitchDatabase>> FindByStationNameAsync(string name);
+        Task<IEnumerable<SwitchDatabase>> FindByStationNameAsync(int name); //Silinecek
         //...
     }
 }
