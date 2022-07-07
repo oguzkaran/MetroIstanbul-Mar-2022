@@ -1,0 +1,17 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.exe
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.runtimeconfig.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.runtimeconfig.dev.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\WindowsFormClient.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\bin\Debug\netcoreapp3.1\CSD.SocketUtil.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.csprojAssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.MainForm.resources
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.csproj.GenerateResource.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.csproj.CopyComplete
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\028-TcpIpImageOperationsGuid\WindowsFormClient\obj\Debug\netcoreapp3.1\WindowsFormClient.genruntimeconfig.cache

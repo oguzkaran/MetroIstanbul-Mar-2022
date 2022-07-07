@@ -1,0 +1,9 @@
+﻿  Socket.c
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\csdtcp\socket.c(97): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\csdtcp\socket.c(133): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\csdtcp\socket.c(135): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+     Creating library C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\069-TCP-IP-MultiClient-WithDLLWithC\Debug\CSDTcp.lib and object C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\069-TCP-IP-MultiClient-WithDLLWithC\Debug\CSDTcp.exp
+  CSDTcp.vcxproj -> C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\069-TCP-IP-MultiClient-WithDLLWithC\Debug\CSDTcp.dll

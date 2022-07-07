@@ -1,0 +1,15 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\bin\Debug\netcoreapp3.1\CSD.SocketUtil.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Siemens-DotnetAppII-III-Sep-2020\src\035-MakeUpperC\MakeUpperClients\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache

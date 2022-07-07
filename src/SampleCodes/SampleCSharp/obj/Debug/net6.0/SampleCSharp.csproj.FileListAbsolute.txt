@@ -1,0 +1,15 @@
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\bin\Debug\net6.0\SampleCSharp.exe
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\bin\Debug\net6.0\SampleCSharp.deps.json
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\bin\Debug\net6.0\SampleCSharp.runtimeconfig.json
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\bin\Debug\net6.0\SampleCSharp.dll
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\bin\Debug\net6.0\SampleCSharp.pdb
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.csproj.AssemblyReference.cache
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.AssemblyInfoInputs.cache
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.AssemblyInfo.cs
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.dll
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\refint\SampleCSharp.dll
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.pdb
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\SampleCSharp.genruntimeconfig.cache
+C:\Users\oguzkaran\Dropbox\CSD\Consultants\MetroIstanbul\MetroIstanbul-Mar-2022\src\SampleCodes\SampleCSharp\obj\Debug\net6.0\ref\SampleCSharp.dll

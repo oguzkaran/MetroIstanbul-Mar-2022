@@ -1,0 +1,10 @@
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\bin\Release\Client.exe
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\bin\Release\Client.pdb
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\ResolveAssemblyReference.cache
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\Client.ConnectDialogForm.resources
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\Client.MainForm.resources
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\Client.Properties.Resources.resources
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\GenerateResource.read.1.tlog
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\GenerateResource.write.1.tlog
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\Client.exe
+D:\CODE\CSharp\Uygulama2\025-AsenkronMultiClient\Client\obj\Release\Client.pdb

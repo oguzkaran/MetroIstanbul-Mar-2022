@@ -1,0 +1,16 @@
+﻿  Server.c
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(22): warning C4013: 'InitTCPServer' undefined; assuming extern returning int
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(25): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(57): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(579): note: see declaration of 'strrev'
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(80): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPTSTR'
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(80): note: consider using '%ls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(80): note: consider using '%lls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(80): note: consider using '%Ls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(80): note: consider using '%ws' in the format string
+c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(90): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPTSTR'
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(90): note: consider using '%ls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(90): note: consider using '%lls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(90): note: consider using '%Ls' in the format string
+  c:\users\karans\dropbox\csd\kurslar\tubitak-haberlesme-may-2018\dotnetapp-jun-2018\src\069-tcp-ip-multiclient-withdllwithc\server\server.c(90): note: consider using '%ws' in the format string
+  Server.vcxproj -> C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\069-TCP-IP-MultiClient-WithDLLWithC\Debug\Server.exe

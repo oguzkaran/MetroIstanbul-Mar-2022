@@ -1,0 +1,7 @@
+﻿  Client.c
+e:\dropbox\shared\kurslar\sysprog-2017\src\050-tcp-ip-generic\client\client.c(38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+e:\dropbox\shared\kurslar\sysprog-2017\src\050-tcp-ip-generic\client\client.c(40): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+  Client.vcxproj -> E:\Dropbox\Shared\Kurslar\SysProg-2017\Src\050-TCP-IP-Generic\x64\Debug\Client.exe
+  Client.vcxproj -> E:\Dropbox\Shared\Kurslar\SysProg-2017\Src\050-TCP-IP-Generic\x64\Debug\Client.pdb (Full PDB)

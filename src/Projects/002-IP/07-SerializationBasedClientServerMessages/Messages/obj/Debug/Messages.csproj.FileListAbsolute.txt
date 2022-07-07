@@ -1,0 +1,5 @@
+E:\Dropbox\Kurslar\DotNetApp2-Nisan2014\SampleCodes\006-SerializationBasedClientServerMessages\Messages\bin\Debug\Messages.dll
+E:\Dropbox\Kurslar\DotNetApp2-Nisan2014\SampleCodes\006-SerializationBasedClientServerMessages\Messages\bin\Debug\Messages.pdb
+E:\Dropbox\Kurslar\DotNetApp2-Nisan2014\SampleCodes\006-SerializationBasedClientServerMessages\Messages\obj\Debug\Messages.dll
+E:\Dropbox\Kurslar\DotNetApp2-Nisan2014\SampleCodes\006-SerializationBasedClientServerMessages\Messages\obj\Debug\Messages.pdb
+E:\Dropbox\Kurslar\DotNetApp2-Nisan2014\SampleCodes\006-SerializationBasedClientServerMessages\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache

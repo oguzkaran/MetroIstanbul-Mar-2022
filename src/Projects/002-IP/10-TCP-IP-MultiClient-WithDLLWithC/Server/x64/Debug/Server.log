@@ -1,0 +1,6 @@
+﻿  Server.c
+e:\dropbox\shared\kurslar\sysprog-2017\src\050-tcp-ip-generic\server\server.c(27): warning C4244: '=': conversion from 'u_long' to 'USHORT', possible loss of data
+e:\dropbox\shared\kurslar\sysprog-2017\src\050-tcp-ip-generic\server\server.c(40): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  Server.vcxproj -> E:\Dropbox\Shared\Kurslar\SysProg-2017\Src\050-TCP-IP-Generic\x64\Debug\Server.exe
+  Server.vcxproj -> E:\Dropbox\Shared\Kurslar\SysProg-2017\Src\050-TCP-IP-Generic\x64\Debug\Server.pdb (Full PDB)

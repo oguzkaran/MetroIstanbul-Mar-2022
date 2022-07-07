@@ -1,0 +1,7 @@
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\bin\Debug\Server.exe.config
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\bin\Debug\Server.exe
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\bin\Debug\Server.pdb
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\obj\Debug\Server.exe
+C:\Users\karans\Dropbox\CSD\Kurslar\Tubitak-Haberlesme-May-2018\DotNetApp-Jun-2018\src\064-TCPClass\Server\obj\Debug\Server.pdb

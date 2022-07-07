@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmW7FsxildbogovXD3WKFJx89xF0U14wbqZjgHJY4n49+PFSNto8k11BgwQu/T4b4vMNb0oAvvTZj3BM+G6Afg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karans\\Dropbox\\CSD\\Kurslar\\Siemens-DotnetAppII-III-Sep-2020\\src\\027-TcpIpImageOperations\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karans\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Karans\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Karans\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
