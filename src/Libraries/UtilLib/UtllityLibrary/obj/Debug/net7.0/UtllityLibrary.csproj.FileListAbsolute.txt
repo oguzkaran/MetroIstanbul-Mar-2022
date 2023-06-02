@@ -1,0 +1,12 @@
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/bin/Debug/net7.0/UtllityLibrary.deps.json
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/bin/Debug/net7.0/UtllityLibrary.dll
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/bin/Debug/net7.0/UtllityLibrary.pdb
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.csproj.AssemblyReference.cache
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.AssemblyInfoInputs.cache
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.AssemblyInfo.cs
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.csproj.CoreCompileInputs.cache
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.dll
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/refint/UtllityLibrary.dll
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/UtllityLibrary.pdb
+/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/Debug/net7.0/ref/UtllityLibrary.dll
