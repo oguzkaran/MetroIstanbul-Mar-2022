@@ -1003,32 +1003,44 @@
     ]
   },
   "packageFolders": {
-    "/Users/oguzkaran/.nuget/packages/": {}
+    "C:\\Users\\Karans\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtilityLibrary/UtilityLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtilityLibrary\\UtilityLibrary.csproj",
       "projectName": "UtilityLibrary",
-      "projectPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtilityLibrary/UtilityLibrary.csproj",
-      "packagesPath": "/Users/oguzkaran/.nuget/packages/",
-      "outputPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtilityLibrary/obj/",
+      "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtilityLibrary\\UtilityLibrary.csproj",
+      "packagesPath": "C:\\Users\\Karans\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtilityLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/oguzkaran/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Karans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/UtllityLibrary.csproj": {
-              "projectPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/UtllityLibrary.csproj"
+            "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtllityLibrary\\UtllityLibrary.csproj": {
+              "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtllityLibrary\\UtllityLibrary.csproj"
             }
           }
         }
@@ -1080,7 +1092,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
