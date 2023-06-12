@@ -1,21 +1,29 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 
-namespace MetroIstanbul.Util
+namespace MetroIstanbul.Util;
+
+public static class StringUtil
 {
-	public static class StringUtil
+	public static string ReverseString(string s)
 	{
-		public static string ReverseString(string s)
-		{
-			var sb = new StringBuilder();
+		var sb = new StringBuilder();
 
-			for (int i = s.Length - 1; i >= 0; --i)
-				sb.Append(s[i]);
+		for (var i = s.Length - 1; i >= 0; --i)
+			sb.Append(s[i]);
 
-			return sb.ToString();
-		}
+		return sb.ToString();
 	}
 
-	//...
+	public static string GenerateRandomTextTR(Random r, int count)
+	{
+		throw new NotImplementedException("TODO: Write and test");
+	}
+
+    public static string GenerateRandomTextEN(Random r, int count)
+    {
+        throw new NotImplementedException("TODO: Write and test");
+    }
 }
+
+//...
 

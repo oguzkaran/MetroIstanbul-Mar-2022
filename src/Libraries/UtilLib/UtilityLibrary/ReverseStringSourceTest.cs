@@ -1,4 +1,14 @@
-﻿namespace UtilityLibrary;
+﻿/*
+    Aşağıdaki input ve expected değerleri şu formattaki bir dosyadan okuyacak şekilde SourceSupplier'ı yazınız
+    Dosya Formatı:
+    ankara  arakna
+    alipapila  alipapila
+    ...
+
+    Formatta input ve expexted değerler arasında \n dışında herhangi bir whitespace karakter olabilir
+ */
+
+namespace UtilityLibrary;
 
 [TestFixture]
 public class ReverseStringSourceTest
@@ -10,13 +20,25 @@ public class ReverseStringSourceTest
         yield return new string[] { "", "" };
     }
 
-   
-    
-    [Author("Ahmet Taçkın")]
+    [SetUp]
+    public void SetUp()
+    {
+        //...
+    }
+
+    [TearDown]
+    public void TearDown()
+    {
+        //...
+    }
+ 
+    [Author("Ahmet Taçgın")]
+    [Description("This is the test")]
+    [Category("reverse")]
     [Test]
     [TestCaseSource(nameof(SourceSupplier))]
     public void GivenString_WhenText_ThenReturnReversed_SourceSupplier(string input, string expected)
     {
-        Assert.That(expected, Is.EqualTo(StringUtil.ReverseString(input)));
+        That(expected, Is.EqualTo(ReverseString(input)));
     }
 }
