@@ -1,24 +1,15 @@
-﻿<Properties StartupConfiguration="{204F9A06-654C-40B1-8485-C402EA29D0E1}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.UtilityLibrary PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="UtilityLibrary/ReverseStringTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UtllityLibrary/StringUtil.cs">
     <Files>
-      <File FileName="UtllityLibrary/StringUtil.cs" Line="12" Column="30" />
-      <File FileName="UtilityLibrary/UnitTest1.cs" Line="11" Column="6" />
-      <File FileName="UtilityLibrary/ReverseStringSourceTest.cs" Line="20" Column="23" />
+      <File FileName="UtllityLibrary/StringUtil.cs" Line="19" Column="32" />
+      <File FileName="UtilityLibrary/ReverseStringSourceTest.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UtilLib" expanded="True">
-            <Node name="UtilityLibrary" expanded="True">
-              <Node name="ReverseStringTest.cs" selected="True" />
-            </Node>
+            <Node name="UtilityLibrary" expanded="True" />
             <Node name="UtllityLibrary" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
@@ -27,11 +18,12 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="UtilLib" expanded="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UtilityLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

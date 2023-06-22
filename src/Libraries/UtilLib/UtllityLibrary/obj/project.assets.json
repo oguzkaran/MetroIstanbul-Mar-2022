@@ -8,36 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Karans\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/oguzkaran/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtllityLibrary\\UtllityLibrary.csproj",
+      "projectUniqueName": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/UtllityLibrary.csproj",
       "projectName": "UtllityLibrary",
-      "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtllityLibrary\\UtllityLibrary.csproj",
-      "packagesPath": "C:\\Users\\Karans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\UtilLib\\UtllityLibrary\\obj\\",
+      "projectPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/UtllityLibrary.csproj",
+      "packagesPath": "/Users/oguzkaran/.nuget/packages/",
+      "outputPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/Libraries/UtilLib/UtllityLibrary/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Karans\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/oguzkaran/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
