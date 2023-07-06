@@ -1,5 +1,5 @@
-﻿<Properties>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{204F9A06-654C-40B1-8485-C402EA29D0E1}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="UtllityLibrary/StringUtil.cs">
     <Files>
       <File FileName="UtllityLibrary/StringUtil.cs" Line="19" Column="32" />
@@ -14,6 +14,7 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
+              <Node name="StringUtil.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -24,6 +25,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.UtilityLibrary PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
