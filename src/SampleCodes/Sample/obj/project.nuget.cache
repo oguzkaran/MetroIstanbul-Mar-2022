@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4RuTUVUUZWGt/Pt38YBCBFI0n5sPTdA01+jbJiVyG1oivwtS9Qht7b02c15RR0Eu6buhO9u3rIwinY7MU3/Tpg==",
+=======
+  "dgSpecHash": "wP/gIFRDUpmW32V1fAFP5WyLAD+FnP0lRqKkoGFH8+ifSc704jfX4+8Zr0kV3JKJIu/MLitCSyf2JFjysYW56Q==",
+>>>>>>> 01f4c4a2ce54d3b16c9af99cac19799ff72b77a6
   "success": true,
   "projectFilePath": "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj",
   "expectedPackageFiles": [],
