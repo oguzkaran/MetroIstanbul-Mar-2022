@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj": {}
+    "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj": {}
   },
   "projects": {
-    "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj": {
+    "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj",
+        "projectUniqueName": "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj",
         "projectName": "Sample",
-        "projectPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj",
+        "projectPath": "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/Sample.csproj",
         "packagesPath": "/Users/oguzkaran/.nuget/packages/",
-        "outputPath": "/Users/oguzkaran/Dropbox/CSD/Consultants/MetroIstanbul/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/obj/",
+        "outputPath": "/Users/oguzkaran/Desktop/Metro-Istanbul-Study/MetroIstanbul-Mar-2022/src/SampleCodes/Sample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oguzkaran/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
