@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Karans\\.nuget\\packages\\": {},
@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karans\\Dropbox\\CSD\\Kurslar\\Alga-WPF-Jan-2022\\src\\Libraries\\AsyncUtilLib\\AsyncUtilLib.csproj",
-      "projectName": "CSDAsync",
-      "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Kurslar\\Alga-WPF-Jan-2022\\src\\Libraries\\AsyncUtilLib\\AsyncUtilLib.csproj",
+      "projectUniqueName": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\AsyncUtilLib\\AsyncUtilLib.csproj",
+      "projectName": "CSD.Async",
+      "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\AsyncUtilLib\\AsyncUtilLib.csproj",
       "packagesPath": "C:\\Users\\Karans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Kurslar\\Alga-WPF-Jan-2022\\src\\Libraries\\AsyncUtilLib\\obj\\",
+      "outputPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\AsyncUtilLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,15 +34,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -53,15 +53,16 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -70,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,32 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj": {}
+    "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj": {
+    "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
+        "projectUniqueName": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
         "projectName": "CSD.Util.TPL",
-        "projectPath": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
-        "packagesPath": "C:\\Users\\oguzkaran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oguzkaran\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\obj\\",
+        "projectPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\TaskUtilLib.csproj",
+        "packagesPath": "C:\\Users\\Karans\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karans\\Dropbox\\CSD\\Consultants\\MetroIstanbul\\MetroIstanbul-Mar-2022\\src\\Libraries\\TaskUtilLib\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\oguzkaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Karans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,38 +44,25 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
